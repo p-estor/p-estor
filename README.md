@@ -21,7 +21,6 @@ DAM Student
 )
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 )
-![]
 
 
 
