@@ -2,7 +2,7 @@
 I have been studying as a software developer for the past 3 years. Throughout this time, I have acquired a wide range of skills, with my strongest expertise lying in Java and Jetpack Compose.
 Additionally, driven by my passion for video games I have also started studying Unity and Godot.
 
-Although I still need to complete my internship, I think I am ready for employment. Therefore, I am currently seeking new opportunities in software development.
+Having completed my studies and internship, I am now ready for employment. Therefore, I am currently seeking new opportunities in software development.
 
 ## Current activities
 I am currently expanding my knowlodge by doing online courses and personal projects.
@@ -15,7 +15,7 @@ I am currently expanding my knowlodge by doing online courses and personal proje
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Android](https://img.shields.io/badge/ANDROID-4023ff?style=for-the-badge&logo=Android&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
