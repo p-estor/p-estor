@@ -35,8 +35,8 @@ Optimizo mis flujos de desarrollo integrando **agentes de Inteligencia Artificia
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
+### 📈 Mi Actividad en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=p-estor&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub de Pedro" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-estor&theme=tokyonight" alt="Racha de contribuciones de Pedro" />
 </p>
