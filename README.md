@@ -1,26 +1,42 @@
-## About me
-I have been studying as a software developer for the past 3 years. Throughout this time, I have acquired a wide range of skills, with my strongest expertise lying in Java and Jetpack Compose.
-Additionally, driven by my passion for video games I have also started studying Unity and Godot.
+# ¡Hola! Soy Pedro Estor Fernández 👋
+**Desarrollador Full Stack & Mobile | DevOps Enthusiast**
 
-Having completed my studies and internship, I am now ready for employment. Therefore, I am currently seeking new opportunities in software development.
+Soy Técnico Superior en DAM con un perfil muy orientado a la práctica y a la infraestructura. Me apasiona construir aplicaciones completas desde la base de datos hasta su despliegue y administración en servidores en la nube.
 
-## Current activities
-I am currently expanding my knowlodge by doing online courses and personal projects.
-## Skills
+🌍 **Portfolio:** [pedrodev.es](https://pedrodev.es/)  
+✉️ **Contacto:** [estorfernandezpedro@gmail.com](mailto:estorfernandezpedro@gmail.com)  
+💼 **LinkedIn:** [pedroestorfernandez](https://www.linkedin.com/in/pedroestorfernandez/)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/KOTLIN-4023ff?style=for-the-badge&logo=Kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID-4023ff?style=for-the-badge&logo=Android&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GODOT](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+---
 
+### 🚀 Proyectos en Producción (VPS Propia)
 
+Aquí puedes ver algunos de los desarrollos que mantengo activos de manera autónoma en mi servidor:
 
-## Contact me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluest1386@ieselcaminas.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-estor-fernández-1aa254269)
+*   **[Chupachotas SoloQ Challenge](https://chupachotas.es/)** — Web en vivo de clasificación en tiempo real para una comunidad de Discord. Integrada con la **Riot Games API**, con automatización de sincronización mediante tokens de seguridad y persistencia con Prisma ORM sobre MySQL.
+*   **Atsugiribot (Telegram)** — Bot en Node.js para procesamiento y descarga directa de contenido multimedia de Twitter/X utilizando streams de comandos en consola (`yt-dlp`).
+*   **Labubot (Discord)** — Bot modular desarrollado en Node.js que proporciona integraciones de traducción interactiva de japonés consumiendo la API de Jisho.org.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+*   **Lenguajes:** JavaScript (ES6+), TypeScript, C# (.NET Core), Java, Kotlin, SQL, HTML5, CSS3.
+*   **Frameworks & Librerías:** Next.js (React), ASP.NET MVC, Android SDK (Jetpack Compose), Express.
+*   **Bases de Datos:** MySQL, PostgreSQL, SQL Server, SQLite, Prisma ORM.
+*   **DevOps & Cloud:** Linux VPS (Debian/Ubuntu), Nginx (Proxy Inverso), PM2, Certbot (SSL), Git, Docker.
+*   **Productividad:** Desarrollo rápido asistido por Inteligencia Artificial (AI Pair-Programming y orquestación de agentes).
+
+---
+
+### 🤖 Metodología de Trabajo
+
+Optimizo mis flujos de desarrollo integrando **agentes de Inteligencia Artificial** para automatizar tareas repetitivas de código, agilizar la depuración responsiva y estructurar configuraciones complejas de servidores en la nube, enfocándome en aportar valor a la arquitectura y la lógica de negocio.
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=p-estor&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub de Pedro" />
+</p>
